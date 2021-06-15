@@ -65,8 +65,7 @@ public class Product {
     public void setInventoryValue(double inventoryValue) {
         this.inventoryValue = inventoryValue;
     }
-    
-    
+
     
     @Override
     public String toString(){
