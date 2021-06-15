@@ -108,12 +108,7 @@ public class ProductTester {
                 }
             }
             break;
-        }
-        
-        
-        
-        
-        
+        }    
 }
     
     
